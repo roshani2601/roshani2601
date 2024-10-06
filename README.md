@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🌱 I’m Currently Learning
 
-<!--
-**roshani2601/roshani2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently learning Spring in Java and have created some projects to enhance my skills by following YouTube tutorials.
 
-Here are some ideas to get you started:
+## My Java Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **Enotes Application**
+   - **Description:** A web application for managing and sharing notes using servlets, JSP, and JDBC concepts.
+   - **Repository:** [Enotes Repository](https://github.com/roshani2601/ENotes-Application.git)
+
+2. **Online Expense Tracker**
+   - **Description:** A tool to track and manage personal expenses efficiently using hibernate, servlet,JSP and java.
+   - **Repository:** [Expense Manager Repository](https://github.com/roshani2601/Online-Expense-Tracker.git)
