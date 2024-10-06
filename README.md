@@ -1,6 +1,4 @@
-# 🌱 I’m Currently Learning
-
-I am currently learning Spring in Java and have created some projects to enhance my skills by following YouTube tutorials.
+# 🌱 I’m Currently learning Spring in Java and have created some projects to enhance my skills by following YouTube tutorials.
 
 ## My Java Projects
 
