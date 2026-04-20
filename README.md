@@ -6,12 +6,12 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack  
 
-**Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Languages:** TypeScript, JavaScript
-**Database:** MSSQL, MongoDB, MySQL
+**Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Languages:** TypeScript, JavaScript  
+**Database:** MSSQL, MongoDB, MySQL  
 **Tools:** Git, Postman, IIS, Vercel, Render, FTP
 
 ---
@@ -39,6 +39,11 @@
 
 * Built backend for attendance, salary, leave, and task management
 * Implemented role-based system and default configurations
+
+### 🔹 Other Projects  
+- IATMS: Backend with payment integration for property transactions  
+- Grampanchayat System: Backend for complaint and government services  
+- Bus Tracking: Backend system to track bus routes, timing, and passengers  
 
 ---
 
