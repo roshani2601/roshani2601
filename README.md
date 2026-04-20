@@ -1,8 +1,8 @@
 # Hi, I'm Roshani 👋
 
-💻 Full Stack Developer with hands-on experience in building real-world web applications
-🚀 Skilled in React.js, Node.js, TypeScript, and modern backend systems
-📍 Based in Gujarat, India
+💻 Full Stack Developer with hands-on experience in building real-world web applications  
+🚀 Skilled in React.js, Node.js, TypeScript, and modern backend systems  
+📍 Based in Gujarat, India  
 
 ---
 
